@@ -9,10 +9,10 @@
 3. Mở Command Palette (`Ctrl+Shift+P` hoặc `Cmd+Shift+P` trên macOS).
 4. Chạy lệnh `Extensions: Install from VSIX...`.
 5. Chọn tệp `.vsix` mà bạn đã tải xuống.
-Bạn nên cài đặt các theme bên dưới để extention có thể hoạt động một cách tốt nhất:
-  /Evondel Dracula
-  /Palenight Theme
-  /Monokai Pro
+-Bạn nên cài đặt các theme bên dưới để extention có thể hoạt động một cách tốt nhất:
+ - /Evondel Dracula
+ - /Palenight Theme
+ - /Monokai Pro
 ## Cách sử dụng
 - Khi bạn mở một file C++ (`cpp`), extension sẽ tự động thay đổi theme thành `Evondel Dracula`.
 - Khi bạn mở một file HTML (`html`), extension sẽ tự động thay đổi theme thành `Palenight Theme`.
