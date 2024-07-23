@@ -12,7 +12,7 @@ For example, it sets the theme to 'Evondev Dracula' for C++ files and 'Palenight
 
 You can download the `.vsix` file for this extension from the following link:
 
-[Download Extension]()
+[Download Extension](https://github.com/ltd9605/Switch-theme_Extension/blob/main/switch-theme-0.0.1.vsix)
 
 ## Installation
 1. Install the extension from the VS Code marketplace or download the .vsix file.
