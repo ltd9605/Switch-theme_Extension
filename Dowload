@@ -1,7 +1,0 @@
-echo "# Switch-theme_Extension" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/ltd9605/Switch-theme_Extension.git
-git push -u origin main
