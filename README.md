@@ -4,7 +4,7 @@
 
 ## Cài đặt
 
-1. Tải xuống [tệp `.vsix`](https://github.com/your-username/your-repo/releases/download/v1.0.0/auto-theme-switcher-0.0.1.vsix).
+1. Tải xuống [tệp `.vsix`](https://github.com/ltd9605/Switch-theme_Extension/blob/main/switch-theme-0.0.1.vsix).
 2. Mở Visual Studio Code.
 3. Mở Command Palette (`Ctrl+Shift+P` hoặc `Cmd+Shift+P` trên macOS).
 4. Chạy lệnh `Extensions: Install from VSIX...`.
