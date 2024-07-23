@@ -6,6 +6,14 @@ For example, it sets the theme to 'Evondev Dracula' for C++ files and 'Palenight
 
 - Automatically changes the VS Code theme based on the language of the open file.
 - Supports cpp and html languages ​​with customizable themes
+
+
+## Download Extension
+
+You can download the `.vsix` file for this extension from the following link:
+
+[Download Extension]()
+
 ## Installation
 1. Install the extension from the VS Code marketplace or download the .vsix file.
 2. Open VS Code and go to Extensions.
