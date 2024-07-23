@@ -15,7 +15,6 @@ Bạn đã cài đặt các theme bên dưới:
 - Khi bạn mở một file C++ (`cpp`), extension sẽ tự động thay đổi theme thành `Evondel Dracula`.
 - Khi bạn mở một file HTML (`html`), extension sẽ tự động thay đổi theme thành `Palenight Theme`.
 - Khi bạn mở một file TypeScript (`typescript`), extension sẽ tự động thay đổi theme thành `Monokai Pro`.
-- Khi bạn mở một file JSON (`json`), extension sẽ tự động thay đổi theme thành `Monokai Pro`.
 ## Dowload
 dơl
 ## Giấy phép
